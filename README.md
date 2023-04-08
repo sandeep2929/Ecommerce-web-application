@@ -1,4 +1,4 @@
-# Ecommerce web application
+# Ecommerce Web Application
 
 This is a general ecom application in which user can browse through list of products, select & purchase the desired product.
 
