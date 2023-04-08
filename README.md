@@ -2,6 +2,14 @@
 
 This is a general ecom application in which user can browse through list of products, select & purchase the desired product.
 
+![image](https://user-images.githubusercontent.com/130059005/230707568-57f4ca0d-400b-4eba-9658-ab2645b839d4.png)
+
+![image](https://user-images.githubusercontent.com/130059005/230707617-c4d1dff0-3a57-413e-be49-7c0d80eda0ac.png)
+
+![image](https://user-images.githubusercontent.com/130059005/230707659-42873ef8-90f6-41f0-903b-26f8b949c80e.png)
+
+
+
 
 
 
